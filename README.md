@@ -25,5 +25,5 @@ cd line-bot-power3
 pip2 install thrift==0.9.3
 pip2 install requests
 pip2 install rsa
-python2 bot.py
+python2 echobot.py
 ```
