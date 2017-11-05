@@ -6,7 +6,7 @@ from imgurpython import ImgurClient
 import time,random,sys,json,codecs,threading,glob,os,subprocess,multiprocessing
 
 cl = LineAlpha.LINE()
-cl.login(token="EkeaUw67d8l1ksWaRIf9.VPm++2MfGJebW2j6OM3Qcq.N8RkI8fzMpTI6SkoxX1gg/yZcvpOp2GmCubdVUizk/I=")
+cl.login(token="EmhGQQcCiSDvcwWD5LW3.oZSwcZ6ZYqmmZCVKkVxDCW.iCkTwpqw/MfCJuT/TogXbFpYl00rSet2BOTiMU4E2jY=")
 cl.loginResult()
 
 kk = LineAlpha.LINE()
